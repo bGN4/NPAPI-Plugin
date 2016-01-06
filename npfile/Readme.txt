@@ -1,2 +1,4 @@
-NPAPI Scriptable Plugin
-向硬盘写入文件
+NPAPI Plugin
+鍔熻兘锛氬悜纾佺洏鍐欏叆鏂囦欢
+绗竴娆″涔犵紪鍐欐祻瑙堝櫒鎻掍欢鍜孨PAPI鎻掍欢
+                              2013-05-04
